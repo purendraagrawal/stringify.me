@@ -1,15 +1,15 @@
 {
 	"basics": {
-		"name": "Kishore",
-		"label": "Architect",
+		"name": "Purendra Agrawal",
+		"label": "Test Analyst",
 		"picture": "profile.jpg",
-		"email": "prakis@gmail.com",
-		"phone": "(912) 98765-4321",
-		"website": "https://reactdude.com/",
-		"twitter": "https://twitter.com/prakis",
-		"facebook": "https://www.facebook.com/Stringify.me",
-		"github": "http://github.com/prakis",
-		"summary": "I work as a consultant, designing and developing web (<b>Java</b>, <b>ReactJS</b>, <b>NodeJS</b>) & desktop (<b>C#</b>, <b>JavaFX</b>) apps. I have over 16 years experience in software development and 2 years in Nanotechnology."
+		"email": "purendra.agrawal@gmail.com",
+		"phone": "(912) 88994-06155",
+		"website": "https://www.purendra.com/",
+		"twitter": "https://twitter.com/purendraagrawal",
+		"facebook": "https://www.facebook.com/purendraagrawal",
+		"github": "http://github.com/purendraagrawal",
+		"summary": "I am a Software tester with a knack for maintaining the Quality of a product. Full system development lifecycle experience, including, designing, developing and implementing test plans, test cases and test processes fueling swift corrective actions, significant cost savings and fault - free audits."
 	},
 	"theme": {
 		"url": "https://github.com/prakis/stringify.me-theme",
